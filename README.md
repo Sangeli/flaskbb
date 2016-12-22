@@ -5,6 +5,8 @@
 
 # Introduction
 
+Forked from flaskbb
+
 [FlaskBB](http://flaskbb.org) is a forum software written in python
 using the micro framework Flask.
 
